@@ -4,7 +4,7 @@ Instructions for how to run project:
 
 Step-1:  Clone the Repository:
          Open your terminal and run the following command to clone the repository:
-         git clone 
+         git clone https://github.com/amankush1008/Calculator.git
 
 Step-2:  Navigate to the Project Directory:
          Change into the project directory:
